@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-12T22:31:03+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-11T22:28:49+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/oko4k/Desktop/Учёба/ФиКЛ/линда/kalinkovichi_nnk1983_life.avi"
             MIME_TYPE="video/*" RELATIVE_MEDIA_URL="../../kalinkovichi_nnk1983_life.avi"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:90b55113-e1f7-4372-b7d2-531e621a976b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1051</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1054</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="668755"/>
@@ -132,15 +132,15 @@
         <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="707003"/>
         <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="707261"/>
         <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="707564"/>
-        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="708100"/>
-        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="708185"/>
-        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="708422"/>
-        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="708668"/>
-        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="709045"/>
-        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="709251"/>
-        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="709834"/>
-        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="710281"/>
-        <TIME_SLOT TIME_SLOT_ID="ts131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="708023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="708100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="708185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="708422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="708668"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="709045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="709251"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="709834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="710281"/>
         <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="711307"/>
         <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="711949"/>
         <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="712371"/>
@@ -276,13 +276,13 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
-                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts129">
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts130">
                 <ANNOTATION_VALUE>надо было дойти потому что в том / стаде был бык</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts137">
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts137">
                 <ANNOTATION_VALUE>кх кх / который постоянно меня ждал</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -326,9 +326,8 @@
     <TIER ANNOTATOR="irinaorlovahse" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@aim1984m"
         PARTICIPANT="@aim1984m" TIER_ID="transl@aim1984m"/>
-    <TIER ANNOTATOR="olegkochkohse" DEFAULT_LOCALE="en"
-        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@nnk1983f"
-        PARTICIPANT="@nnk1983f" TIER_ID="words@nnk1983f">
+    <TIER ANNOTATOR="olegkochkohse" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="text@nnk1983f" PARTICIPANT="@nnk1983f" TIER_ID="words@nnk1983f">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a528"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -990,51 +989,51 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a639"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1052"
                 TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a639"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
                 <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a640"
-                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
                 <ANNOTATION_VALUE>том</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a641"
-                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a642"
-                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
                 <ANNOTATION_VALUE>стаде</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a643"
-                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
                 <ANNOTATION_VALUE>был</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a644"
-                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
                 <ANNOTATION_VALUE>бык</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a645"
-                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-                <ANNOTATION_VALUE>кх</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a646"
                 TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
-                <ANNOTATION_VALUE>кх</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#кашляет#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1507,8 +1506,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a711" ANNOTATION_REF="a539" CVE_REF="cveid_86ba0d3c-888e-4ca4-8d8e-0f45336052e5">
-                <ANNOTATION_VALUE>X</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a711" ANNOTATION_REF="a539" CVE_REF="cveid_ce34404a-7589-4167-af39-6c6f5ec11de2">
+                <ANNOTATION_VALUE>PUNCT</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1867,8 +1866,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a611" CVE_REF="cveid_55d0ab6e-09f3-4142-8e52-41fe08eb0a10">
-                <ANNOTATION_VALUE>ADP</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a611" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
+                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1997,7 +1996,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a809" ANNOTATION_REF="a638" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
+            <REF_ANNOTATION ANNOTATION_ID="a809" ANNOTATION_REF="a638" CVE_REF="cveid_e981f31b-d38d-45ce-91fa-0003327d7136">
+                <ANNOTATION_VALUE>ADV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1053" ANNOTATION_REF="a1052" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
                 <ANNOTATION_VALUE>CONJ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -2033,11 +2037,6 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a698" ANNOTATION_REF="a645" CVE_REF="cveid_86ba0d3c-888e-4ca4-8d8e-0f45336052e5">
-                <ANNOTATION_VALUE>X</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a699" ANNOTATION_REF="a646" CVE_REF="cveid_86ba0d3c-888e-4ca4-8d8e-0f45336052e5">
                 <ANNOTATION_VALUE>X</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -2838,7 +2837,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a973" ANNOTATION_REF="a638">
-                <ANNOTATION_VALUE>потому что</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потому</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a1052">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2873,12 +2877,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a645">
-                <ANNOTATION_VALUE>кх</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a981" ANNOTATION_REF="a646">
-                <ANNOTATION_VALUE>кх</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE/>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
